@@ -1,4 +1,4 @@
-# Line-Scan-Camera
+# Line_Scan_Camera
 
 Reference Link: http://www.elm-chan.org/works/lcam/report.html
 
