@@ -1,6 +1,8 @@
 # Line_Scan_Camera
 
-Reference Link: http://www.elm-chan.org/works/lcam/report.html
+Main Blog: https://divertingpan.github.io/post/line_scan_camera/
+
+Reference: http://www.elm-chan.org/works/lcam/report.html
 
 The modified version is designed by DivertingPan in the project of EasyEDA and Altium format, and the code in the zip file.
 
@@ -15,3 +17,4 @@ Original design by ChaN is shown in the png images：
 ![Control Board](https://github.com/divertingPan/Line_Scan_Camera/blob/main/lcam_ctrl.png)
 
 ![Display Board](https://github.com/divertingPan/Line_Scan_Camera/blob/main/lcam_disp.png)
+
