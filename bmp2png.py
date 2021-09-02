@@ -4,7 +4,7 @@
 
 # --- v0.2 ---
 # transform images from a whole folder
-# the folder should only comtain .bmp files
+# the folder should only contain .bmp files
 
 import os
 import cv2
